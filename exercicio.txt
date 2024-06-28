@@ -1,0 +1,7 @@
+modulo endereço 
+
+modulo pedido
+
+modulo usuario
+
+pedidos do usuario
